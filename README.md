@@ -1,4 +1,4 @@
-# ComplexCalculator
+# ComplexPostfixCalculator
 Complex number calculator that uses postfix notation.
 
 
