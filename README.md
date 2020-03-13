@@ -15,7 +15,7 @@ This calculator can perform: subtraction, multiplication, addition, conjugation 
 Running Instructions:
 ----------------------
 
-Open the terminal and go to the directory containing the Makefile and complex_postfix.cpp and type the "make" command and press enter. This will create a target object called "calc".
+Open the terminal and go to the directory containing the Makefile and complex_postfix.cpp and type the "make calc" command and press enter. This will create a target object called "calc".
 To run the complex_postfix.cpp file, enter "./calc" and press enter in the command terminal.
 To add a pair to the stack use the following format:
 
